@@ -1,0 +1,15 @@
+{
+  "name": "jest-foundations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "jest": "jest"
+  },
+  "keywords": [],
+  "author": "Alparslan",
+  "license": "ISC",
+  "description": "UNIT TESTING Basics",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
